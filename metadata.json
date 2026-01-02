@@ -1,0 +1,7 @@
+{
+  "name": "ContractAI CRM",
+  "description": "A sophisticated AI-powered Contract Relationship Management (CRM) system designed for legal teams to analyze risks, track deadlines, and manage documents with Gemini integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
